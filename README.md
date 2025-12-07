@@ -188,4 +188,3 @@ For more detailed instructions, see `server/MONGODB_GUIDE.md`
 - Add due dates and reminders
 - Add drag-and-drop reordering
 - Add dark mode
-
