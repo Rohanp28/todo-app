@@ -15,6 +15,7 @@ Thank you for your interest in contributing to this Todo App project!
 ## Development Setup
 
 ### Backend
+
 ```bash
 cd server
 npm install
@@ -23,6 +24,7 @@ npm start
 ```
 
 ### Frontend
+
 ```bash
 cd client
 npm install
@@ -50,4 +52,3 @@ npm start
 4. Submit a pull request with a clear description
 
 Thank you for contributing! 🎉
-
